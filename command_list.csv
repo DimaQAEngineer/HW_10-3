@@ -1,0 +1,29 @@
+[33mcommit 11b62f041ab99348b36daf8a9760d33662b8b2a9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Yana Kash <sheverdina.yana@gmail.com>
+Date:   Sun Sep 8 18:23:05 2024 +0200
+
+    Внесено зміни в файл develop_test
+
+[33mcommit fe7b95346afc64bc6c4bde7fea77b98d7f373446[m
+Author: Yana Kash <sheverdina.yana@gmail.com>
+Date:   Sun Sep 8 18:03:09 2024 +0200
+
+    Створено файл develop_test
+
+[33mcommit 5b9c23181c8f89929683d12155ca920bdf686a49[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Yana Kash <sheverdina.yana@gmail.com>
+Date:   Sun Sep 8 17:42:42 2024 +0200
+
+    Створено файл main_test
+
+[33mcommit 5e536e34944b1f49a70e9cc9b490e2a4c64c0197[m
+Author: Yana Kash <sheverdina.yana@gmail.com>
+Date:   Sun Sep 8 17:35:18 2024 +0200
+
+    Внесли зміни в .gitignore
+
+[33mcommit cc688219bfd94800924f2fa34aab6bb554ece3d2[m
+Author: SheVredina <122560380+SheVredina@users.noreply.github.com>
+Date:   Sun Sep 8 16:04:56 2024 +0200
+
+    Initial commit
